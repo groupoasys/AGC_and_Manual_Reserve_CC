@@ -24,7 +24,7 @@ If you want to cite this repository, [[2]](https://github.com/groupoasys/AGC_and
 ```
 @article{AGCmanual2023,
 author = {OASYS},
-journal = {GitHub repository (https://github.com/groupoasys/AGC{\_}and{\_}Manual{\_}Reserve{\_}CC})},
+journal = {GitHub repository (https://github.com/groupoasys/AGC{\_}and{\_}Manual{\_}Reserve{\_}CC)},
 title = {{Data of 5-node and 2000-node Power Systems}},
 url = {https://github.com/groupoasys/AGC{\_}and{\_}Manual{\_}Reserve{\_}CC},
 year = {2023}
