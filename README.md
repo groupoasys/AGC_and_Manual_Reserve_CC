@@ -11,14 +11,14 @@ This repository includes data of the 118-node system, which is extracted from a 
   * [Power System Data](https://drive.google.com/file/d/1HkxgkMbgwMF3H88nzHB7O8XUtG17_2Ej/view?usp=share_link)
   * [Wind Data](https://docs.google.com/spreadsheets/d/1BSA9FpmONo_QtyckYkr9U5YRcLXkNLJc/edit?usp=share_link&ouid=111304944927618582927&rtpof=true&sd=true)
 
-Note that the modified parameters or new parameters about generators used in the paper are indicated in the case study section of this manuscript.
+Note that the modified parameters or new parameters about generators used in the paper are indicated in the case study section of the corresponding manuscript.
 
 ## References 📚
 [1] Á. Porras, S. Pineda, J. M. Morales, Line Roald "Chance-constrained Reserve Deployment Actions in Stochastic Optimal Power Flow," 2023.
 
 ## How to cite the repository and the paper? 📝
 
-If you want to cite this repository, [[2]](https://github.com/groupoasys/AGC_and_Manual_Reserve_CC), please use the following bib entries:
+If you want to cite [this repository](https://github.com/groupoasys/AGC_and_Manual_Reserve_CC), please use the following bib entries:
 
 
 * Repository:
