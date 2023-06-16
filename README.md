@@ -14,7 +14,7 @@ This repository includes data of the 118-node system, which is extracted from a 
 Note that the modified parameters or new parameters about generators used in the paper are indicated in the case study section of the corresponding manuscript.
 
 ## References 📚
-[1] Á. Porras, S. Pineda, J. M. Morales, Line Roald "Chance-constrained Reserve Deployment Actions in Stochastic Optimal Power Flow," 2023.
+[1] Á. Porras, L. Roald, J. M. Morales and S. Pineda, "Integrating Automatic and Manual Reserves in Optimal Power Flow via Chance Constraints," 2023.
 
 ## How to cite the repository and the paper? 📝
 
