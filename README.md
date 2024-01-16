@@ -6,12 +6,21 @@ The aim of this repository is to provide the details of the power systems data s
 
 ## Contents 🌌
 
-This repository includes data of the 118-node system, which is extracted from a [repository of power grids](https://github.com/power-grid-lib/pglib-opf); and data about the wind farms added to the system.
+This repository includes data of the 300-bus and 118-bus systems, which are extracted from a [repository of power grids](https://github.com/power-grid-lib/pglib-opf); and data about the wind farms added to the system.
 
-  * [Power System Data](https://drive.google.com/file/d/1HkxgkMbgwMF3H88nzHB7O8XUtG17_2Ej/view?usp=share_link)
-  * [Wind Data](https://docs.google.com/spreadsheets/d/1BSA9FpmONo_QtyckYkr9U5YRcLXkNLJc/edit?usp=share_link&ouid=111304944927618582927&rtpof=true&sd=true)
+IEEE-118:
+  * [Power System Data](https://github.com/groupoasys/AGC_and_Manual_Reserve_CC/blob/main/ieee118.txt)
+  * [Wind Data](https://github.com/groupoasys/AGC_and_Manual_Reserve_CC/blob/main/Wind_Data_118.xlsx)
 
-Note that the modified parameters or new parameters about generators used in the paper are indicated in the case study section of the corresponding manuscript.
+IEEE-300:
+  * [Power System Data](https://github.com/groupoasys/AGC_and_Manual_Reserve_CC/blob/main/ieee_300.xlsx)
+  * [Wind Data](https://github.com/groupoasys/AGC_and_Manual_Reserve_CC/blob/main/Wind_Data_300.xlsx)
+
+To reproduce the results of such a paper, please contact Álvaro Porras (alvaroporras19@gmail.com) and get access to the scenarios (heavy files).
+
+Note that:
+  * IEEE-118: The modified parameters or new parameters about generators used in the paper are indicated in the case study section of the corresponding manuscript.
+  * IEEE-300: Line capacities lower than 500 MW have been modified to 500 MW to guarantee the system´s feasibility.
 
 ## References 📚
 [1] Á. Porras, L. Roald, J. M. Morales and S. Pineda, "Integrating Automatic and Manual Reserves in Optimal Power Flow via Chance Constraints," 2023.
